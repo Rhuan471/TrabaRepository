@@ -1,6 +1,1 @@
-package br.edu.univille.poo.jpa.repositorio;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface TrabaRepository extends JpaRepository<TrabaRepository, Long> {
-}
+// 01) Implementar a estrutura da Pilha baseada em vetores, devendo possuir os métodos
